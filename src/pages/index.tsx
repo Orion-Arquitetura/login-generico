@@ -18,6 +18,7 @@ export default function Home() {
             <label>
               Email
               <input
+                name="email"
                 type="email"
                 required
               />
@@ -25,6 +26,7 @@ export default function Home() {
             <label>
               Senha
               <input
+                name="senha"
                 type="password"
                 required
               />
